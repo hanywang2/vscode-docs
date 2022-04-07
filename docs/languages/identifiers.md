@@ -71,6 +71,7 @@ C++ | `cpp`
 C# | `csharp`
 CUDA C++ | `cuda-cpp`
 CSS | `css`
+Dart | `dart`
 Diff | `diff`
 Dockerfile | `dockerfile`
 F# | `fsharp`
